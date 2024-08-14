@@ -1,0 +1,1 @@
+console.log("Hello World! (from create-block-just-another-v2-block block)");
